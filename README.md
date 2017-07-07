@@ -1,2 +1,2 @@
 # timer
-cross linux /windows  timer , regist callback funciton
+C++11  timer  cross linux /windows, regist callback funciton add to timer, timer start... 
